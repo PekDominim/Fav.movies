@@ -1,5 +1,14 @@
-body {
-    background-image: url("image.png");
-    background-size: 1920px 960px;
-    
+body{
+    background-color: black; 
+    color: white;
+    font-family: monospace;
+}   
+#batman_poster{
+    width: 250px;
+    height: 350px;
+}
+#tizenhatkarika{
+    width: 25px;
+    height: auto;
+
 }
