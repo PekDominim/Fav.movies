@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* hogy a tartalom függőlegesen is középen legyen */
+  
+}
